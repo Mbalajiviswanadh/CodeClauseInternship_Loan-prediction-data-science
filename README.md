@@ -1,8 +1,7 @@
 
-**Data Science Intern**
+**Data science Intern**
 
-
-
+- [code clause](https://internship.codeclause.com/)
 
 
 
